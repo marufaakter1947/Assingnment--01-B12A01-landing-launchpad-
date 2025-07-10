@@ -189,3 +189,42 @@ font-size: 18px;
     text-align: center;
     margin-bottom: 90px;
 }
+
+/* -----------Get in Touch section starts here------------- */
+.newsletter-title{
+    font-size: 47px;
+    font-weight: bold;
+    color: #000000;
+}
+.form-input{
+    width: 497px;
+    border-radius: 10px;
+    padding: 20px 32px;
+    background-color: #FFFFFF;
+    font-size: 20px;
+    color: rgb(0,0,0,50%);
+    border: 1px solid #D6DDED;
+    font-family: "Inter", sans-serif;
+    margin-bottom: 19px;
+}
+.newsletter-form label{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+    font-family: "Inter", sans-serif; 
+    display: block;
+    margin-bottom: 10px;
+
+}
+.form-btn{
+    padding: 19px 101px;
+     width: 497px;
+}
+.newsletter{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 71px 0;
+    display: flex;
+    align-items: center;
+    gap: 233px;
+}
