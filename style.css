@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+}
+/* ------------Navbar section starts here---------- */
+.navbar{
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+    margin: 0 auto;
+}
+.nav-logo h1{
+    font-size: 34px;
+    color:#4E47FF;
+    font-family: "Inter", sans-serif;
+}
+.btn{
+    padding: 12px 36px;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    font-size: 16px;
+    font-weight: bold;
+    color:#FFFFFF;
+    border: none;
+}
