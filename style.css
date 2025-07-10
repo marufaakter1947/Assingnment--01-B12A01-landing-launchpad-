@@ -228,3 +228,27 @@ font-size: 18px;
     align-items: center;
     gap: 233px;
 }
+
+/* ------------Footer section starts here------------ */
+.footer-subtitle p{
+    color:#8987A1;
+    margin-bottom: 20px;
+}
+.footer-title h1{
+    font-size: 100px;
+    color:#4E47FF;
+    font-family: "Inter", sans-serif;
+    margin-bottom: 8px;
+}
+.links a{
+    color:#8987A1;
+    text-decoration: none;
+    margin-right: 48px;
+    margin-bottom: 100px;
+}
+.footer{
+    text-align: center;
+    background-color: #FFFFFF;
+    border: 1px solid rgb(0,0,0,10%);
+    padding: 104px 455px;
+}
