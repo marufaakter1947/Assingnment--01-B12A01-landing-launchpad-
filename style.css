@@ -4,6 +4,9 @@
     padding: 0;
     font-family: "Raleway", sans-serif;
 }
+.background-image{
+    background-image: url("./Assets/Hero-bg.png");
+}
 /* ------------Navbar section starts here---------- */
 .navbar{
     width: 1140px;
@@ -25,4 +28,20 @@
     font-weight: bold;
     color:#FFFFFF;
     border: none;
+}
+
+/* ------------------Banner section starts here---------------- */
+
+.banner-text h1{
+    font-size: 65px;
+    font-weight: bold;
+    color:#252432;
+    margin-bottom: 37px;
+    margin-top: 158px;
+}
+.banner{
+    text-align: center;
+}
+.banner button{
+    margin-bottom: 200px;
 }
