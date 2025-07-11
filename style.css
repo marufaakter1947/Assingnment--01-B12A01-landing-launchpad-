@@ -255,6 +255,6 @@
 .footer {
   text-align: center;
   background-color: #ffffff;
-  border: 1px solid rgb(0, 0, 0, 10%);
+  border-top: 1px solid rgb(0, 0, 0, 10%);
   padding: 104px 455px;
 }
