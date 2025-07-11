@@ -6,7 +6,6 @@
 }
 .background-image {
   background-image: url("./Assets/Hero-bg.png");
-  margin-bottom: 116px;
 }
 .main {
   background-color: #f5f8ff;
@@ -80,6 +79,7 @@
   justify-content: space-between;
   align-items: center;
   margin-bottom: 116px;
+  padding-top: 116px;
 }
 
 /* ----------------Productive User Section starts here-------- */
