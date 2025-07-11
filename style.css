@@ -8,6 +8,9 @@
   background-image: url("./Assets/Hero-bg.png");
   margin-bottom: 116px;
 }
+.main {
+  background-color: #f5f8ff;
+}
 /* ------------Navbar section starts here---------- */
 .navbar {
   width: 1140px;
@@ -193,13 +196,22 @@
 }
 
 /* -----------Get in Touch section starts here------------- */
+.newsletter {
+  width: 1140px;
+  margin: 0 auto;
+  padding: 70px 0;
+  display: flex;
+  align-items: center;
+  gap: 230px;
+}
 .newsletter-title {
   font-size: 47px;
   font-weight: bold;
   color: #000000;
 }
 .form-input {
-  width: 497px;
+  width: 539px;
+
   border-radius: 10px;
   padding: 20px 32px;
   background-color: #ffffff;
@@ -208,6 +220,7 @@
   border: 1px solid #d6dded;
   font-family: "Inter", sans-serif;
   margin-bottom: 19px;
+  margin-right: 0;
 }
 .newsletter-form label {
   font-size: 18px;
@@ -219,15 +232,7 @@
 }
 .form-btn {
   padding: 19px 101px;
-  width: 497px;
-}
-.newsletter {
-  width: 1140px;
-  margin: 0 auto;
-  padding: 71px 0;
-  display: flex;
-  align-items: center;
-  gap: 233px;
+  width: 539px;
 }
 
 /* ------------Footer section starts here------------ */
